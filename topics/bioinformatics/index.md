@@ -1,7 +1,8 @@
 ---
+aliases: bio-informatics
 created_by: Paulien Hogeweg and Ben Hesper
 display_name: Bioinformatics
-related: computational-biology, biostatistics, genomics
+related: computational-biology,biostatistics,genomics
 short_description: Bioinformatics is the application of computer technology to the understanding and effective use of biological data.
 topic: bioinformatics
 wikipedia_url: https://en.wikipedia.org/wiki/Bioinformatics
